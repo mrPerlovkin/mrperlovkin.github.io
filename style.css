@@ -3,10 +3,8 @@ body{
   margin:0;padding:15px;
   font-family:"Comic Sans MS","Trebuchet MS",Verdana,sans-serif;
   color:#002244;
-  background-image:url("images/whaleshark.jpg");
-  background-size:cover;
-  background-position:center;
-  background-attachment:fixed;
+  background-image:url("images/whaleshark.png");
+  background-repeat:repeat;
 }
 .wrap{
   max-width:720px;margin:0 auto;padding:20px;
