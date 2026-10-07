@@ -1,4 +1,3 @@
-/* Морской сайт в духе 2000-х. Меняй цвета здесь. */
 body{
   margin:0;padding:15px;
   font-family:"Comic Sans MS","Trebuchet MS",Verdana,sans-serif;
@@ -42,3 +41,9 @@ img{border:4px groove #c9a227;max-width:100%;height:auto}
 .badges{text-align:center;margin-top:8px}
 .badge{display:inline-block;width:88px;height:31px;line-height:31px;margin:2px;font:bold 11px Verdana,sans-serif;color:#fff;background:linear-gradient(#3399cc,#003366);border:1px solid #000;text-align:center}
 @media(prefers-reduced-motion:reduce){.blink{animation:none}}
+img.icon{
+  height:48px;width:auto;
+  border:0;
+  vertical-align:middle;
+  image-rendering:pixelated;
+}
