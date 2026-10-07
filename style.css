@@ -17,7 +17,7 @@ body{
 h1,h2{color:#003366;text-align:center;text-shadow:2px 2px #99cccc}
 h1{font-size:28px;margin-top:0}
 marquee{background:#003366;color:#ffff00;padding:4px;font-weight:bold}
-.box{background:#e6f4ff;border:3px outset #66aaaa;padding:10px 15px;margin:15px 0}
+.box{background:#8fc3e0;border:3px outset #66aaaa;padding:10px 15px;margin:15px 0}
 .nav{text-align:center;margin:12px 0}
 .nav a{
   display:inline-block;margin:3px;padding:4px 12px;
